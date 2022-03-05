@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "flappy-bird",
-    "slug": "flappy-bird",
+    "name": "jumpy-box",
+    "slug": "jumpy-box",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
